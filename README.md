@@ -1,2 +1,4 @@
 # hello-world
-first repository
+first repositoy
+
+Adding additional information.
